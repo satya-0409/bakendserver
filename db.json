@@ -1,4 +1,13 @@
 {
+    "users": [
+        {
+          "first_name": "Satya Prakash",
+          "last_name": "Singh",
+          "email": "officialsatyam8081@gmail.com",
+          "password": "Sa@ty#am",
+          "id": 1
+        }
+      ],
   "products": [
       {
           "tag": "https://diesel.gumlet.io/images/Responsible.png",
