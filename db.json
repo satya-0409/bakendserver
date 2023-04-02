@@ -9,13 +9,14 @@
         }
       ],
       "wishlist": [
-        {
-            "src": "https://diesel.gumlet.io/product/410315286010/665/410315286010_1.jpg",
-            "price": 12999,
-            "color": "Blue",
-            "title": "1955 Straight Fit Men Blue Jeans",
-            "id": 1
-        }
+        
+      {
+        "src": "https://diesel.gumlet.io/product/410315286010/665/410315286010_1.jpg",
+        "price": 12999,
+        "color": "Blue",
+        "title": "1955 Straight Fit Men Blue Jeans",
+        "id": 1
+    }
     ],
   "menproducts": [
      
