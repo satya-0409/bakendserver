@@ -25,6 +25,7 @@
           "price": 12999,
           "color": "Blue",
           "title": "1955 Straight Fit Men Blue Jeans",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 1
       },
       {
@@ -34,6 +35,7 @@
           "discount": "(40% Off)",
           "color": "Black",
           "title": "UMTK-JOHNNY-TUBE-TWOPACK Slim Men Black Tank",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 2
       },
       {
@@ -41,6 +43,7 @@
           "price": 14999,
           "color": "Red",
           "title": "P-tary Regular Fit Men Red Pants",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 3
       },
       {
@@ -48,6 +51,7 @@
           "price": 14999,
           "color": "Blue",
           "title": "2005 D-Fining Tapered Fit Men Blue Jeans",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 4
       },
       {
@@ -57,6 +61,7 @@
           "discount": "(40% Off)",
           "color": "White",
           "title": "Athos Men White Sneakers",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 5
       },
       {
@@ -66,6 +71,7 @@
           "discount": "(40% Off)",
           "color": "Multi",
           "title": "Umtee-Randal Slim Fit Men Multi T-shirt",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 6
       },
       {
@@ -73,6 +79,7 @@
           "price": 24999,
           "color": "Blue",
           "title": "2005 D-Fining Tapered Fit Men Blue Jeans",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 7
       },
       {
@@ -80,6 +87,7 @@
           "price": 27990,
           "color": "Orange",
           "title": "J-Akinator Regular Fit Men Orange Jacket",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 8
       },
       {
@@ -87,6 +95,7 @@
           "price": 4999,
           "color": "Blue",
           "title": "BRIIAN SA-BRIIAN Sandals",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 9
       },
       {
@@ -94,6 +103,8 @@
           "price": 12999,
           "color": "Red",
           "title": "B-DIDI Men Red Belt",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
+          
           "id": 10
       },
       {
@@ -101,6 +112,7 @@
           "price": 6999,
           "color": "Blue",
           "title": "Umkit-Just Regular Fit Men Blue Pyjama",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 11
       },
       {
@@ -108,6 +120,7 @@
           "price": 26999,
           "color": "Blue",
           "title": "J-sam Regular Fit Men Blue Jacket",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 12
       },
       {
@@ -115,6 +128,7 @@
           "price": 19999,
           "color": "Black",
           "title": "2019 D-Strukt Slim Fit Men Black Jeans",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 13
       },
       {
@@ -122,6 +136,7 @@
           "price": 18999,
           "color": "Multi",
           "title": "K-Bana Regular Fit Men Multi Pants",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 14
       },
       {
@@ -129,6 +144,7 @@
           "price": 4999,
           "color": "Green",
           "title": "Kauay Sandals",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 15
       },
       {
@@ -136,6 +152,7 @@
           "price": 6999,
           "color": "Blue",
           "title": "B-ILLY Men Blue Belt",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 16
       },
       {
@@ -143,6 +160,7 @@
           "price": 14999,
           "color": "Blue",
           "title": "2019 D-Strukt Slim Fit Men Blue Jeans",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 17
       },
       {
@@ -150,6 +168,7 @@
           "price": 19999,
           "color": "Green",
           "title": "K-jersey Regular Fit Men Green Knitwear",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 18
       },
       {
@@ -157,6 +176,7 @@
           "price": 5999,
           "color": "Multi",
           "title": "Umset-Just Regular Fit Men Multi Pyjama",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 19
       },
       {
@@ -164,6 +184,7 @@
           "price": 4999,
           "color": "Black",
           "title": "UMTEE-RANDAL-TUBE-TWOPACK Slim Man Black T-shirt",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 20
       },
       {
@@ -171,6 +192,7 @@
           "price": 24999,
           "color": "Blue",
           "title": "Sleenker Skinny Fit Men Blue Jeans",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 21
       },
       {
@@ -178,6 +200,7 @@
           "price": 4999,
           "color": "Multicolor",
           "title": "55-D-TWOPACK Men Multicolor Boxer",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 22
       },
       {
@@ -185,6 +208,7 @@
           "price": 27999,
           "color": "Brown",
           "title": "1955 Straight Fit Men Brown Jeans",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 23
       },
       {
@@ -192,6 +216,7 @@
           "price": 4999,
           "color": "Multicolor",
           "title": "55-D-TWOPACK Men Multicolor Boxer",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 24
       }
   ],
@@ -203,6 +228,7 @@
       "discount": "(40% Off)",
       "color": "Black",
       "title": "Acetate Round Women Black Sunglasses",
+      "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 1
     },
     {
@@ -212,6 +238,7 @@
       "discount": "(40% Off)",
       "color": "Black",
       "title": "Acetate Oval Unisex Black Eyewear",
+      "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 2
     },
     {
@@ -219,6 +246,7 @@
       "price": 8999,
       "color": "Beige",
       "title": "Uflb-Panshin Regular Fit Women Beige Pants",
+      "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 3
     },
     {
@@ -226,6 +254,7 @@
       "price": 5999,
       "color": "Pink",
       "title": "Ufset-Roukin Regular Fit Women Pink Pyjama",
+      "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 4
     },
     {
@@ -235,12 +264,14 @@
       "discount": "(40% Off)",
       "color": "Brown",
       "title": "Acetate Round Women Brown Eyewear",
+      "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 5
     },{
       "src": "https://diesel.gumlet.io/product/410315389006/665/410315389010_1.jpg",
       "price": 5999,
       "color": "Black",
       "title": "Uflb-Babyx Regular Fit Women Black Pants",
+      "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 6
     },
     {
@@ -248,6 +279,7 @@
       "price": 5999,
       "color": "Grey",
       "title": "Uflb-Babyx Regular Fit Women Grey Pants",
+      "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 7
     }, 
     {
@@ -257,6 +289,7 @@
       "discount": "(40% Off)",
       "color": "Black",
       "title": "CRUST-M X Women Black Handbag",
+      "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 8
     },
     {
@@ -266,13 +299,14 @@
       "discount": "(40% Off)",
       "color": "Multicolor",
       "title": "B-LETTERS C Women Multicolor Belt",
+      "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 9
     },
     {
       "src": "https://diesel.gumlet.io/product/410315244002/665/410315244002_1_8569.webp",
       "price": 6999,
       "color": "Black",
-      "title": "HOLY-B Woman Black Keyring",
+      "title": "HOLY-B Woman Black Keyring","description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 10
     },
     {
@@ -282,6 +316,7 @@
       "discount": "(40% Off)",
       "color": "Red",
       "title": "1dr  Women Red Wallet",
+      "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 11
     },
     {
@@ -291,12 +326,14 @@
       "discount": "(40% Off)",
       "color": "Pink",
       "title": "Kauay   Women Pink Sandals",
+      "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 12
     },{
       "src": "https://diesel.gumlet.io/product/410345342001/665/410345342001_1_1222.webp",
       "price": 32999,
       "color": "Pink",
       "title": "D-VINA-C XS Women Pink Shoulder Bag",
+      "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 13
     },
     {
@@ -306,6 +343,7 @@
       "discount": "(40% Off)",
       "color": "Red",
       "title": "DSL SHOPPER M X Women Red Bag",
+      "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 14
     },
     {
@@ -316,6 +354,7 @@
       "discount": "(40% Off)",
       "color": "Violet",
       "title": "GARNET Women Violet Wallet",
+      "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
       "id": 15
     }, {
 
@@ -323,6 +362,7 @@
           "price": 17999,
           "color": "Blue",
           "title": "1969 D-Ebbey Bootcut Fit Women Blue Jeans",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 16
       },
       {
@@ -332,6 +372,7 @@
           "discount": "(40% Off)",
           "color": "Black",
           "title": "SA-KAUAY NL W Women Black Sandals",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 17
       },
       {
@@ -339,6 +380,7 @@
           "price": 9999,
           "color": "Orange",
           "title": "D-Atrix Regular Fit Women Orange Dress",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 18
       },
       {
@@ -348,6 +390,7 @@
           "discount": "(50% Off)",
           "color": "Black",
           "title": "D-Easiel Regular Fit Women Black Dress",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 19
       },
       {
@@ -358,6 +401,7 @@
           "discount": "(40% Off)",
           "color": "Black/Dark Grey",
           "title": "1969 D-EBBEY Bootcut Fit Women Black Jeans",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 20
       },
       {
@@ -367,6 +411,7 @@
           "discount": "(50% Off)",
           "color": "Black",
           "title": "D-Lary Regular Fit Women Black Dress",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 21
       },
       {
@@ -375,6 +420,7 @@
           "price": 17999,
           "color": "Blue",
           "title": "1969 D-Ebbey Bootcut Fit Women Blue Jeans",
+          "description" : "Bootcut style with a regular waist and zip fly. The of-the-moment silhouette is trimmed with contemporary detailing and designed for a perfect fit with sneakers.",
           "id": 22
       }
   ]
